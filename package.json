@@ -1,6 +1,5 @@
 {
-  "name": "test1",
-  "private": true,
+  "name": "svelte-jedit-1",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -24,8 +23,7 @@
     "svelte-spa-router": "^3.2.0",
     "sveltestrap": "^5.9.0"
   },
-  "description": "Ever wanted to copy something to clipboard? Say hello to Svelte Copy ✨",
-  "main": "mdsvex.config.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sonjavanteese/svelte-jedit-1.git"
